@@ -9,7 +9,7 @@ Just call `formatsPhone` where you want the behavior.
 
     $('input[type="text"]').formatsPhone();
 
-Now all text inputs on that page will format phone numbers.
+With that code, all text inputs on that page will format phone numbers.
 
 ### TODO
 
